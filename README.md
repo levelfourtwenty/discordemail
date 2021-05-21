@@ -9,5 +9,5 @@ Add the bot to your server (A private one I suggest).
 Run bot.py.
 
 ### TODO
-- Fix the fetch command so it actually works.  
+- Fix the fetch command so it actually works every time. 
 - Add comments, clean up code.
